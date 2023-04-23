@@ -1,0 +1,54 @@
+/* 设置全局字体样式 */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+  
+  /* 设置顶部标题样式 */
+  #title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  
+  /* 设置搜索栏样式 */
+  #search {
+    margin-bottom: 20px;
+  }
+  
+  /* 设置城市分布图表样式 */
+  #cityChart {
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+  }
+  
+  /* 设置学历分布图表样式 */
+  #educationChart {
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+  }
+  
+  /* 设置职业等级图表样式 */
+  #jobLevelChart {
+    width: 300px;
+    height: 200px;
+  }
+  
+  /* 设置人员信息表格样式 */
+  table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  th {
+    font-weight: bold;
+    background-color: #eee;
+  }
+  
